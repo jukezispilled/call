@@ -64,7 +64,7 @@ function App() {
   const [copied, setCopied] = useState(false);
 
   const handleCopy = () => {
-    navigator.clipboard.writeText('updating...');
+    navigator.clipboard.writeText('Fm5zZWWzn3okVGpA7VVXfgnG2bE814EzpB7JGpSmpump');
     setCopied(true);
     setTimeout(() => {
       setCopied(false);
@@ -117,7 +117,7 @@ function App() {
             CA
           </button>
           <div className='text-sm md:text-base overflow-x-auto whitespace-nowrap'>
-            updating...
+            Fm5zZWWzn3okVGpA7VVXfgnG2bE814EzpB7JGpSmpump
           </div>
         </div>
       </div>
